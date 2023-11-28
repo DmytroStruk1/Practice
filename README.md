@@ -36,6 +36,9 @@ _Цитата В.О. мін культури Ростислав Карандєє
 Цікаво відзначити ..... що термін "Іван Степанович Марчук" по всій країні.
 
 ### Часовий період "за 5 років"   
+![Screnshhot](https://github.com/DmytroStruk1/Practice/blob/main/%D0%9C%D0%B0%D1%80%D1%87%D1%83%D0%BA%20%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D1%96%205%20%D1%80%D0%BE%D0%BA%D1%96%D0%B2.png)
+
+![Screnshhot](https://github.com/DmytroStruk1/Practice/blob/main/%D0%9C%D0%B0%D1%80%D1%87%D1%83%D0%BA%20%D0%B7%D0%B0%205%20%D1%80%D0%BE%D0%BA%D1%96%D0%B2%20%D1%96%20%D0%B4%D0%BE%20%D1%81%D1%8C%D0%B3%D0%BE%D0%B4%D0%BD%D1%96.png)
 
 ### Часовий період "від початку повно"   
 
