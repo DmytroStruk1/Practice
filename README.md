@@ -31,3 +31,5 @@ _Цитата В.О. мін культури Ростислав Карандєє
 
 Тут видно, що на початку ....
 
+![Screnshhot](https://github.com/DmytroStruk1/Practice/blob/main/%D0%9C%D0%B0%D1%80%D1%87%D1%83%D0%BA%20%D0%B7%202004%20%D0%B4%D0%BE%20%D1%81%D1%8C%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D1%96.png)
+
