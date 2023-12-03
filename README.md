@@ -46,7 +46,7 @@
 Спираючись на отриманні дані, виявив:
 - терім "Іван Степанович Марчук" також найбільш вживаний у пошуках в Google (2018-2023);
 - найвищі показники хвиль відображають такі події:
-   + у листопаді 2019 році, вийшла [стаття](https://rubryka.com/article/ivan-marchuk-kyiv/), де Івана Марчука назвали українським Ван Гогом;
+   + восени у 2019 році, вийшла [стаття](https://rubryka.com/article/ivan-marchuk-kyiv/), де Івана Марчука назвали українським Ван Гогом, а також [BBС Україна](https://www.youtube.com/watch?v=DhjvFi0goW4) та [Радіо Свобода](https://www.youtube.com/watch?v=FDB4km0KLQ4) випустили інтерв'ю про нього;
    + у грудні-лютому 2019-2020 році Івану Марчуку надали [довічну державну стипендію](https://demforum.org/novyny/ivanu-marchuku-nadaly-dovichnu-derzhavnu-stypendiiu-iak-vydatnomu-diiachu-kultury), як видатному діячу культури та вийшла [стаття](https://marbeks.art/hudozhnyk-ivan-marchuk-stav-rekordsmenom-ukrayinskyh-aukcziov-u-2020-roczi/) в якій, наголошували, що Марчук став рекордсменом українських аукціонів. Також буди дві виставки, про які повідомляли платформа ["Укрінформ"](https://www.ukrinform.ua/rubric-culture/2853264-se-odnu-vistavku-marcuka-vidkriut-u-kievi.html) та інші інтернет [ЗМІ](https://www.asterslaw.com/ua/about_us/esg/art_asters/artasters_presents_ivan_marchuk_exhibition/)";
    + у травні 2021 році, знайдені декілька статей, які інформують про його життєвий шлях та відкриття виставок до дня народження митця;
    + в серпні 2021 році, Іван Марчук виріщив забрати свої роботи з свого рідного села;
