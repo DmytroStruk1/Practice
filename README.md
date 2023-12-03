@@ -72,7 +72,7 @@
 ![Screnshhot](https://github.com/DmytroStruk1/Practice/blob/main/%D0%9C%D0%B0%D1%80%D1%87%D1%83%D0%BA%20%D0%B2%D1%96%D0%B4%2024.02.2022.png)
 Спостергіаємо, схожу цікавість до творчості Івана Марчука по всіх областях, як на минулих графіках. 
 
-### Сентимент аналіз популярних статтей на основі Google Trends про живописця через Voyant Tools
+### Аналіз популярних статтей про живописця через Voyant Tools
 ![Screnshhot](https://github.com/DmytroStruk1/Practice/blob/main/Voyant%20Tools.png)
 
 ### Висновки 
