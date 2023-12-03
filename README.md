@@ -48,3 +48,5 @@ _Цитата В.О. мін культури Ростислав Карандєє
 ### Сентимент аналіз популярних статтей на основі Google Trends про живописця через Voyant Tools
 
 ### Висновки 
+
+![Screnshhot](https://github.com/DmytroStruk1/Practice/blob/main/Voyant%20Tools.png)
